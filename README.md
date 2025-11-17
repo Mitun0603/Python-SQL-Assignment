@@ -75,5 +75,5 @@ VS Code / JupyterLab
 📬 Contact
 
 👤 Mitun J S
-📧 Email: (add your email if you want)
+📧 Email: mitun12426@gmail.com
 🔗 GitHub: https://github.com/Mitun0603
